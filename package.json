@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sawheeldon/shopping-list/issues"
   },
-  "homepage": "https://github.com/sawheeldon/shopping-list#readme"
+  "homepage": "https://github.com/sawheeldon/shopping-list#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0"
+  }
 }
