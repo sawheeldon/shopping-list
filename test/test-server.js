@@ -119,15 +119,4 @@ describe('Shopping List', function () {
                 done();
             });
     });
-    it('POST to an ID that exists');
-    it('POST without body data');
-    it('POST with something other than valid JSON');
-    it('PUT without an ID in the endpoint');
-    it('PUT with different ID in the endpoint than the body');
-    it('PUT to an ID that doesnt exist');
-    it('PUT without body data');
-    it('PUT with something other than valid JSON');
-    it('DELETE an ID that doesnt exist');
-    it('DELETE without an ID in the endpoint');
-    it('should allow edit on double click');
 });
